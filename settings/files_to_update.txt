@@ -7,3 +7,4 @@ README.md
 settings/files_to_update.txt
 settings/test_associations.json
 settings/variables.txt
+test_exercice.py

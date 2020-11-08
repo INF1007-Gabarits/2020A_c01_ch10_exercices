@@ -9,14 +9,12 @@ Avant de commencer, consultez les instructions à suivre dans [instructions.md](
 
 Compléter les quelques exercices suivants en modifiant le code de [exercice.py](exercice.py):
 
-1. Écrire un programme qui compare le contenu de deux fichiers et signale la première différence rencontrée.
+1. Créer un array présentant 64 valeurs uniformément réparties entre -1.3 et 2.5.
 
-2. Écrire un programme qui recopie un fichier texte en triplant tous les espaces entre les mots. (vous pouvez ouvrir deux fichiers avec l’instruction with).
+2. Créer une fonction qui convertit une liste de coordonnées cartésiennes (x, y) en coordonnées polaires (rayon, angle).
 
-3. Écrire un programme qui lit chaque ligne d’un fichier notes.txt (chaque ligne contient une note en pourcentage) et qui réécrit, dans un nouveau fichier, les notes avec, à coté, les mentions « A », « B », etc. en fonction d’un tableau de correspondance fourni.
+3. Créer un programme qui trouve l’index de la valeur la plus proche d’un nombre fournit dans un array.
 
-4. Reprenez l’exercice du livre de recettes et créer une base de données dans un fichier qui permet d’ajouter, modifier, supprimer des recettes. Vous êtes libre de choisir le type de format de fichier.
+4. Créer un graphe de y=𝑥^2  sin⁡(1∕𝑥^2 )+𝑥 dans l’intervalle [-1, 1] avec 250 points.
 
-5. Écrire un programme qui lit un fichier texte [exemple.txt](exemple.txt) et retourne une liste de tous les nombres présents dans le fichier, en ordre croissant. 
-
-6. Écrire un programme qui lit un fichier et qui recopie une ligne sur deux dans un autre fichier.
+5. Évaluer l’intégrale ∫_(−∞)^∞ 𝑒^(−𝑥^2) 𝑑𝑥. Afficher dans un graphique ∫𝑒^(−𝑥^2) 𝑑𝑥 pour x = [-4, 4].
